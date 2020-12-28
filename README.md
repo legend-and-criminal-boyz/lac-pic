@@ -61,14 +61,14 @@ __Exit__ :
 ## ?? ***Join***
 
 ### Facebook page: 
-https://www.facebook.com/labibmirza11
+https://www.facebook.com/legends.and.criminals
 
 
 ### Instagram: 
 https://www.instagram.com/labib__mirza
 
 ### My GitHub ID link:
-https://www.github.com/labibhacker
+https://www.github.com/legends-and-criminals
 
 ### ?? Warning
 
