@@ -22,7 +22,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/labibhacker/lac-cam
+$ git clone https://github.com/legend-and-criminal-boyz/lac-cam
 ```
 ```
 $ ls
@@ -61,7 +61,7 @@ __Exit__ :
 ## ?? ***Join***
 
 ### Facebook page: 
-https://www.facebook.com/legends.and.criminals
+https://www.facebook.com/legend.and.criminal.boyz
 
 
 ### Instagram: 
