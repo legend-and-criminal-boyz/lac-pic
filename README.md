@@ -22,13 +22,13 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/legend-and-criminal-boyz/lac-cam
+$ git clone https://github.com/legend-and-criminal-boyz/lac-pic
 ```
 ```
 $ ls
 ```
 ```
-$ cd lac-cam
+$ cd lac-pic
 ```
 ```
 $ ls
@@ -68,7 +68,7 @@ https://www.facebook.com/legend.and.criminal.boyz
 https://www.instagram.com/labib__mirza
 
 ### My GitHub ID link:
-https://www.github.com/legends-and-criminals
+https://www.github.com/legends-and-criminals-boyz
 
 ### ?? Warning
 
