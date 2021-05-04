@@ -23,7 +23,7 @@ printf "\e[1;92m ─██████████████─█████
 printf "\e[1;92m ──────────────────────────────\e[0m\n"─────────────── \e[0m\n"
 printf "\e[1;92m              LABIB \e[0m                                 \n"
 
-printf " \e[1;77m v2.0 coded by github.com/labibhacker/lac-pic\e[0m \n"
+printf " \e[1;77m v2.0 coded by github.com/legend-and-criminal-boyz/lac-pic\e[0m \n"
 
 printf "\n"
 
