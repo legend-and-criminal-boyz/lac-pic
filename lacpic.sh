@@ -14,6 +14,7 @@ printf "\e[1;92m |  |            /   ^   \    |     ,--------'\e[0m\e[1;77m |  |
 printf "\e[1;92m |  |           /   /_\   \   |     |         \e[0m\e[1;77m |   _   <  |  |   |  |   \_    _/           /   /\e[0m\n"
 printf "\e[1;92m |  `----------/  _____    \  |      `-------.\e[0m\e[1;77m |  |_)   | |  `---   |     |  |            /   /------.\e[0m\n"
 printf "\e[1;92m |____________/__/       \__\  \ ____________|\e[0m\e[1;77m |________/  \_______/      |__|           /___________|\e[0m\n"
+printf "\e[1;92m              LABIB \e[0m                                 \n"
 
 printf " \e[1;77m v2.0 coded by github.com/legend-and-criminal-boyz/lac-pic\e[0m \n"
 
